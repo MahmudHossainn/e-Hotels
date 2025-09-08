@@ -1,0 +1,1 @@
+SELECT * FROM "ProjectPrototype".hotel_room_capacity

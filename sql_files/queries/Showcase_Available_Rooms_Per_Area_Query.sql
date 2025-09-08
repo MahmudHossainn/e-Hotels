@@ -1,0 +1,1 @@
+SELECT * FROM "ProjectPrototype".available_rooms_per_area
